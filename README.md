@@ -1,12 +1,14 @@
 # Electron Electric Dipole Moment (eEDM) Visualization
 
-This interactive visualization demonstrates the behavior of an electron in the presence of electric and magnetic fields, with a focus on detecting the electron's electric dipole moment (EDM).
+This interactive visualization demonstrates the behavior of a molecule in the presence of electric and magnetic fields while fitted into an inert gas matrix, with a focus on detecting the electron's electric dipole moment (EDM).
 
 ## Overview
 
-The visualization shows how an electron's spin precesses in magnetic and electric fields. In the Standard Model of particle physics, the electron's EDM is predicted to be extremely small and currently unmeasurable. However, many extensions to the Standard Model predict larger EDM values that could be detected with sufficiently sensitive experiments.
+The visualization shows how a molecule's spin precesses in magnetic and electric fields. In the Standard Model of particle physics, the electron's EDM is predicted to be extremely small and currently unmeasurable. However, many extensions to the Standard Model predict larger EDM values that could be detected with sufficiently sensitive experiments.
 
-The key signature of an electron EDM is a change in the precession rate when the electric field is reversed. This visualization demonstrates this effect.
+The key signature of an electron EDM is a change in the precession rate when the electric field is reversed. This visualization demonstrates this effect. 
+
+An important point to note is that nothing is really spinning; it's all intrinsic and a Quantum-Mechanical wave bouncing in superposition states.  
 
 ## Features
 
@@ -90,3 +92,4 @@ See `implementation_plan.md` for planned features including a time-based precess
 ## License
 
 This project is open source and available under the MIT License.
+
